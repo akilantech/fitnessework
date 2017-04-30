@@ -1,0 +1,9 @@
+---
+Test
+---
+!3 You can put arrays of objects into ColumnFixture fixtures.
+
+!|fitnesse.fixtures.ComplexAddFixture|
+|a|b|sum?|
+|1,2|3,4|4,7|
+

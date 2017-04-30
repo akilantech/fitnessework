@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<suiteResults>
+  <FitNesseVersion>v20161106</FitNesseVersion>
+  <rootPath>FitNesse.SimpleSuitePass</rootPath>
+  <pageHistoryReference>
+    <name>FitNesse.SimpleSuitePass.AddPass</name>
+    <date>2017-02-05T16:36:37+08:00</date>
+    <pageHistoryLink>FitNesse.SimpleSuitePass.AddPass?pageHistory&amp;resultDate=20170205163637</pageHistoryLink>
+    <counts>
+      <right>1</right>
+      <wrong>0</wrong>
+      <ignores>0</ignores>
+      <exceptions>0</exceptions>
+    </counts>
+    <runTimeInMillis>2</runTimeInMillis>
+  </pageHistoryReference>
+  <executionLog>
+    <testSystem>fit:fit.FitServer</testSystem>
+    <command>java -cp /Users/akilan/.m2/repository/org/fitnesse/fitnesse/20161106/fitnesse-20161106.jar:lib/*.jar fit.FitServer Arockias-MacBook-Pro.local 55024 3863</command>
+    <exitCode>0</exitCode>
+    <stdOut></stdOut>
+    <stdErr></stdErr>
+  </executionLog>
+  <finalCounts>
+    <right>1</right>
+    <wrong>0</wrong>
+    <ignores>0</ignores>
+    <exceptions>0</exceptions>
+  </finalCounts>
+  <totalRunTimeInMillis>378</totalRunTimeInMillis>
+</suiteResults>
+
